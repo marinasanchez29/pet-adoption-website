@@ -44,26 +44,26 @@ body {
 .app-header {
   background-color: white;
   border: 10px solid #aff8fd;
-  padding: 20px;
-  margin: 50px 50px 20px 50px;
+  padding: 10px;
+  margin: 20px 50px;
   display: flex;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
   font-family: 'Source Sans 3', sans-serif;
   color: #0d6f95;
 }
 
 .app-logo {
-  height: 300px;
+  height: 200px;
   width: auto;
-  max-width: 500px;
+  max-width: 300px;
 }
 
 nav {
   flex-grow: 1;
   display: flex;
   justify-content: flex-end;
-  align-self: flex-end;
+  align-items: flex-end;
 }
 
 .nav-list {
@@ -92,7 +92,7 @@ nav {
 }
 
 .content-container {
-  max-width: 1600px;
+  max-width: 1200px;
   width: 100%;
   padding: 0 40px;
 }

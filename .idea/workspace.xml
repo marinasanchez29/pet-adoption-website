@@ -5,106 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e34a53-0ebd-45ce-9e83-d7e1b0b867d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dog-adoption/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-access.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-access.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-adduser.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-adduser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-audit.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-audit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-bin.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-bin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-bugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-bugs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-cache.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-cache.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-ci.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-ci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-completion.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-completion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-config.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-config.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-dedupe.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-dedupe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-deprecate.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-deprecate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-diff.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-diff.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-dist-tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-dist-tag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-docs.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-docs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-doctor.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-doctor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-edit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-exec.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-exec.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-explain.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-explain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-explore.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-explore.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-find-dupes.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-find-dupes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-fund.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-fund.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-help-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-help-search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-help.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-help.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-init.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-init.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-install-ci-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-install-ci-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-install-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-install-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-install.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-install.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-link.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-link.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-logout.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-logout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-ls.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-ls.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-outdated.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-outdated.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-owner.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-owner.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-pack.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-pack.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-ping.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-ping.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-pkg.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-pkg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-prefix.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-prefix.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-prune.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-prune.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-publish.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-publish.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-rebuild.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-rebuild.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-repo.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-repo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-restart.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-restart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-root.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-root.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-run-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-run-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-search.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-set-script.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-set-script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-shrinkwrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-shrinkwrap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-star.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-star.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-stars.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-stars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-start.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-stop.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-stop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-token.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-token.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-uninstall.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-uninstall.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-unpublish.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-unpublish.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-unstar.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-unstar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-update.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-update.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-version.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-version.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-view.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-whoami.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm-whoami.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npx.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/commands/npx.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/folders.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/folders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/npm-shrinkwrap-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/npm-shrinkwrap-json.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/npmrc.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/npmrc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/package-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/package-json.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/package-lock-json.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/configuring-npm/package-lock-json.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/config.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/config.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/developers.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/developers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/orgs.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/orgs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/registry.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/registry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/scope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/scripts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/workspaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/docs/output/using-npm/workspaces.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/node_modules/libnpmdiff/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/node_modules/libnpmdiff/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/node_modules/node-gyp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/node_modules/node-gyp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/node_modules/socks/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/node/node_modules/npm/node_modules/socks/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogList.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dog-adoption/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/css/app.66684f53.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/css/app.84e48139.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/css/app.8562d3e3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/css/app.e6d94858.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/img/logo.3a8fe0df.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.57fa1cd8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.57fa1cd8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.cef909ae.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.cef909ae.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.d124cc77.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.d124cc77.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.e17431fb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/app.e17431fb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/chunk-vendors.ceb076e6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/src/main/resources/static/js/chunk-vendors.ceb076e6.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,23 +21,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ivj96lJSLaR7uejJPmkHMq7UoY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DogAdoptionApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DogAdoptionApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marin/Documents/Personal Projects/pet-adoption-website&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\marin\Documents\Personal Projects\" />

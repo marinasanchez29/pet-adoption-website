@@ -45,10 +45,9 @@ export default {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 20px;
-  gap: 20px;
+  gap: 10px;
   background-color: #0d6f95;
   font-family: 'Source Sans 3', sans-serif;
   color: #0d6f95;
-
 }
 </style>

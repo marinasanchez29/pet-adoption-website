@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e34a53-0ebd-45ce-9e83-d7e1b0b867d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogCard.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/frontend/src/components/DogList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-adoption/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dog-adoption/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -45,7 +45,7 @@ body {
   background-color: white;
   border: 10px solid #aff8fd;
   padding: 10px;
-  margin: 20px 50px;
+  margin: 50px 50px 20px 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -59,9 +59,9 @@ body {
   max-width: 300px;
 }
 
-nav {
-  flex-grow: 1;
+.nav-container {
   display: flex;
+  flex-grow: 1;
   justify-content: flex-end;
   align-items: flex-end;
 }
@@ -72,6 +72,7 @@ nav {
   gap: 20px;
   margin-right: 20px;
   padding: 0;
+  align-items: flex-end;
 }
 
 .nav-list li {
@@ -92,7 +93,7 @@ nav {
 }
 
 .content-container {
-  max-width: 1200px;
+  max-width: 1600px;
   width: 100%;
   padding: 0 40px;
 }

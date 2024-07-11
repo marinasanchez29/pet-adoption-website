@@ -33,30 +33,39 @@ export default {
 
 <style scoped>
 .dog-card {
-  border: 8px solid #aff8fd;;
-  padding: 16px;
+  border: 10px solid #aff8fd;;
+  padding: 10px;
   margin: 8px;
   text-align: center;
   background-color: #fff;
   font-family: 'Source Sans 3', sans-serif;
   color: #0d6f95;
   position: relative;
-  width: 220px;
-  height: 350px;
+  width: 250px;
+  height: 390px;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
 }
+
 .dog-card img {
-  width: 100%;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
-  margin: 0 auto;
+  margin-bottom: 5px;
 }
+
+.dog-card h2 {
+  margin: 5px 0;
+}
+
 .dog-details {
-  display: inline-block;
-  text-align: left;
-  font-size: 16px;
-  margin-top: 5px;
+  font-size: 14px;
+  margin: 2px 0 10px 0;
 }
+
 .favorite-button {
   position: absolute;
   top: 5px;
@@ -67,9 +76,11 @@ export default {
   cursor: pointer;
   color: #8f8c8c;
 }
+
 .favorite-button .fas {
   color: #fe8c9a;
 }
+
 .favorite-button .far:hover {
   color: #fe8c9a;
 }
